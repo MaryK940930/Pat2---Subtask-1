@@ -1,4 +1,4 @@
-# WHAT is MORSE CODE
+# WHAT IS MORSE CODE
 
 Morse Code is a way to communication that shows letters, numbers, and symbols through short and long signals.
 
